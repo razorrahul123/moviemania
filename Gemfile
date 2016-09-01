@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form', '~> 3.1.0'
 gem 'bootstrap-sass', '~> 3.3.4.1'
+gem 'devise', '~> 4.2'
 
 
 # Use ActiveModel has_secure_password
